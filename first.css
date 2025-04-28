@@ -1,0 +1,51 @@
+*{
+    margin:0px;
+}
+body{
+    background-image: url("img.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 45px;
+    display:inline;
+    margin-left:40px;
+}
+.but{
+    display:inline;
+    margin-left:560px;
+    font-size:25px;
+}
+.part1{
+     color:white; 
+     
+    }
+.part2{ 
+    color: orange;
+ }
+ .head{
+    margin-top: 15px;
+ }
+ h3{
+    color: orange;
+ }
+ #web{
+    width: 100%;
+     background-color: orange;   
+     border-radius: 5px;
+     justify-content: center;
+ }
+ footer {
+    background-color:white; 
+    padding: 20px;
+    text-align: center; 
+   
+    left: 0;
+    
+    width: 100%;
+}
+
+
+
+     
+    
